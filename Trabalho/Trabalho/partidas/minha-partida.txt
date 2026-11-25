@@ -1,0 +1,15 @@
+JOGO_DE_DAMAS
+BRANCAS=Ana
+PRETAS=Pedro
+TURNO=BRANCAS
+STATUS=EM_ANDAMENTO
+TABULEIRO_INICIO
+.p.p.p.p
+p.p.p...
+.p.p....
+....p.p.
+........
+b.b.b.b.
+...b.b.b
+b.b.b.b.
+TABULEIRO_FIM
